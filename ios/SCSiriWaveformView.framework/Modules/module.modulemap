@@ -1,0 +1,6 @@
+framework module SCSiriWaveformView {
+  umbrella header "SCSiriWaveformView.h"
+
+  export *
+  module * { export * }
+}
